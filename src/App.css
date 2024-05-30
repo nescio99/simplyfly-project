@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.menu {
+  background-color: bisque;
+}
+
+.main {
+  background-color: aquamarine;
+}
